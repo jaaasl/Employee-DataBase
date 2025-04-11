@@ -21,3 +21,4 @@ A simple terminal-based employee management system written in C. This program al
 ```bash
 gcc -o employee_db employee_db.c
 ./employee_db
+ 
